@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: palevioletred;
+    font-size: 90px;
+}
+p{
+    font-size: 30px;
+    color: chocolate;
+}
+.a{
+    color: gray;
+}
+.amar{
+    width: 35%;
+    float: left;
+    margin : 5%;
+    padding : 2%;
+}
+.amar img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 10px;
+    background-color: greenyellow;
+    border-radius: 8px;
+}
+h2{
+    font-size: 50px;
+}
+.nani{
+    box-shadow: 10% 10% 10% 40% black;
+}
+#rafi{
+    color: lawngreen;
+}
+.vip{
+    text-decoration: none;
+    padding: 0%;
+    background-color: lightseagreen;
+    border-radius: 5px;
+}
+
